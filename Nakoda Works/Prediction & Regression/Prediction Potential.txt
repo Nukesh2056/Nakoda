@@ -1,0 +1,7 @@
+### TARGETS TO PREDICT ###
+
+Total_Amount – already simple math, not worth modeling ---> Completed
+
+Future_Quantity sold – useful for demand forecasting --> not completed
+
+Sales per Day/Region – for time-based forecasting --> Completeds

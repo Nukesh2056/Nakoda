@@ -1,0 +1,21 @@
+To predict future sales, you need to consider both **internal** and **external** factors.
+
+**Internal Factors:**
+
+* **Historical Sales Data:** Past sales figures, trends (growth, decline), and patterns (seasonality, cycles).
+* **Pricing Strategy:** Changes in product prices, discounts, and promotions.
+* **Marketing Efforts:** Spending on advertising, campaigns, and their effectiveness.
+* **Product Changes:** New product launches, updates, or discontinuations.
+* **Sales Pipeline:** Current opportunities, their stage in the sales process, and conversion rates.
+* **Sales Team Performance:** Individual and team sales quotas, lead conversion rates, and sales cycle length.
+* **Inventory Levels:** Availability of products.
+
+**External Factors:**
+
+* **Economic Conditions:** Inflation, employment rates, consumer spending habits, GDP growth, interest rates.
+* **Market Trends:** Shifts in customer preferences, new trends, and changing demands.
+* **Competition:** Competitor pricing, new product launches, and marketing activities.
+* **Seasonality:** Predictable fluctuations in sales due to holidays, specific times of the year, or weather.
+* **Customer Feedback:** Reviews, sentiment, and evolving needs.
+* **Policy Changes:** New laws, regulations, or government policies.
+* **Technological Advancements:** Innovations that could impact demand or create new markets.

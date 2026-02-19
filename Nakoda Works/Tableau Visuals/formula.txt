@@ -1,0 +1,37 @@
+Sheet01 --> Total Earnings per month/Quarter
+	month-wise SUM of 'Total Amount' is used.
+
+Sheet02 --> Category Wise Earning Per Month
+	First separate data category wise - then calculate total amount for each catogery per month 
+	
+						Category
+			----------------------------------------------------------------
+			|                             |                                |
+			|                             |                                |
+                   SUM(Clothing)               SUM(Electronics)                SUM(Home Appliance)
+                    
+                 SUM(AMOUNT)/Month		SUM(AMOUNT)/Month		SUM(AMOUNT)/Month
+
+
+Sheet03 --> Earnings Per Region
+	Separate the data region wise , then SUM the 'Total Amount' for each region 
+
+
+	Region -|
+		|--> North  	[SUM(Total Amount)]
+		|--> South  	[SUM(Total Amount)]
+		|--> Central	[SUM(Total Amount)]
+		|--> West   	[SUM(Total Amount)]
+		|--> East   	[SUM(Total Amount)]
+	
+Sheet04 --> Top Customer's
+	*Separate the data for each 'Customer ID' then SUM(Total Amount) - it will result the earnings/customer
+	*Then Filter the data in Ascending Order.
+	
+
+Sheet05 --> KPI's 
+	*Just do the SUM(Total Amount) & SUM(Quantity Sold) 
+
+Sheet06 --> Quantity VS Earning for each Product
+
+	Separate Each Product & do SUM of 'Total Amount' & 'Quantity Sold' simultaneously.
